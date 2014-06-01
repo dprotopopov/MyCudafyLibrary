@@ -1,0 +1,11 @@
+D:\Projects\MyLibrary\MyCudafy.UnitTest\bin\x86\Debug\MyCudafy.UnitTest.dll
+D:\Projects\MyLibrary\MyCudafy.UnitTest\bin\x86\Debug\MyCudafy.UnitTest.pdb
+D:\Projects\MyLibrary\MyCudafy.UnitTest\bin\x86\Debug\Cudafy.NET.dll
+D:\Projects\MyLibrary\MyCudafy.UnitTest\bin\x86\Debug\MyCudafy.dll
+D:\Projects\MyLibrary\MyCudafy.UnitTest\bin\x86\Debug\MyLibrary.dll
+D:\Projects\MyLibrary\MyCudafy.UnitTest\bin\x86\Debug\MyCudafy.pdb
+D:\Projects\MyLibrary\MyCudafy.UnitTest\bin\x86\Debug\Cudafy.NET.xml
+D:\Projects\MyLibrary\MyCudafy.UnitTest\bin\x86\Debug\MyLibrary.pdb
+D:\Projects\MyLibrary\MyCudafy.UnitTest\obj\x86\Debug\MyCudafy.UnitTest.csprojResolveAssemblyReference.cache
+D:\Projects\MyLibrary\MyCudafy.UnitTest\obj\x86\Debug\MyCudafy.UnitTest.dll
+D:\Projects\MyLibrary\MyCudafy.UnitTest\obj\x86\Debug\MyCudafy.UnitTest.pdb

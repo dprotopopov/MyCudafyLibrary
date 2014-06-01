@@ -1,0 +1,9 @@
+D:\Projects\MyLibrary\MyCudafy\bin\x86\Release\MyCudafy.dll
+D:\Projects\MyLibrary\MyCudafy\bin\x86\Release\MyCudafy.pdb
+D:\Projects\MyLibrary\MyCudafy\bin\x86\Release\Cudafy.NET.dll
+D:\Projects\MyLibrary\MyCudafy\bin\x86\Release\MyLibrary.dll
+D:\Projects\MyLibrary\MyCudafy\bin\x86\Release\MyLibrary.pdb
+D:\Projects\MyLibrary\MyCudafy\bin\x86\Release\Cudafy.NET.xml
+D:\Projects\MyLibrary\MyCudafy\obj\x86\Release\MyCudafy.csprojResolveAssemblyReference.cache
+D:\Projects\MyLibrary\MyCudafy\obj\x86\Release\MyCudafy.dll
+D:\Projects\MyLibrary\MyCudafy\obj\x86\Release\MyCudafy.pdb
