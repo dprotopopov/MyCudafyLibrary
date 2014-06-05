@@ -71,11 +71,15 @@ namespace MyCudafy
         /// <param name="epsilon">Точность вычислений</param>
         /// <param name="gridSize"></param>
         /// <param name="blockSize"></param>
-        /// <param name="appendLineCallback">Делегат для вывода сообщений трассировки</param>
+        /// <param name="trace"></param>
         public static IEnumerable<double> ExecuteLaplaceSolver(double epsilon, double a, bool relax, int gridSize = 0,
             int blockSize = 0,
-            AppendLineCallback appendLineCallback = null)
+            ITrace trace = null)
         {
+            AppendLineCallback appendLineCallback = trace != null ? trace.AppendLineCallback : null;
+            ProgressCallback progressCallback = trace != null ? trace.ProgressCallback : null;
+            CompliteCallback compliteCallback = trace != null ? trace.CompliteCallback : null;
+
             if (gridSize > 0)
             {
                 _gridSize3 = gridSize;
