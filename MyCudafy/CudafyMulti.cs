@@ -297,8 +297,8 @@ namespace MyCudafy
                 for (int i = 0; i < sizes.Length; i++)
                     y += (prev[id - extV[i]] + prev[id + extV[i]])*w[i];
                 next[id] = y;
-                double delta = x*(x - y);
-                double square = y;
+                double delta = (x - y);
+                double square = (x + y);
                 delta = delta*delta;
                 square = square*square;
                 deltaSum += delta;
@@ -369,9 +369,9 @@ namespace MyCudafy
                 for (int i = 0; i < sizes.Length; i++)
                     y += (array[id - extV[i]] + array[id + extV[i]])*w[i];
                 array[id] = y;
-                double delta = x*(x - y);
-                double square = y;
-                delta = delta*delta;
+                double delta = (x - y);
+                double square = (x + y);
+                delta = delta * delta;
                 square = square*square;
                 deltaSum += delta;
                 squareSum += square;
